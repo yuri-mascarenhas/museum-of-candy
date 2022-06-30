@@ -47,6 +47,11 @@ body {
     font-size: 4rem;
 }
 
+.navbar.scrolled {
+    background-color: #dec0de;
+    transition: 500ms;
+}
+
 @media (max-width: 1200px) {
     #headingGroup h1 {
         font-size: 3rem;
